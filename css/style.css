@@ -184,6 +184,11 @@ section {
 .section-one {
   background-color: #2e2f42;
   padding: 188px 0px 188px;
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/office.jpeg);
 }
 
 /*.h-one-container-settings {
