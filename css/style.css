@@ -81,7 +81,6 @@ section {
   display: flex;
   align-items: center;
   padding-left: 0px;
-  position: relative;
 }
 
 .logo {
@@ -115,6 +114,7 @@ section {
   text-decoration: none;
   padding-top: 24px;
   padding-bottom: 24px;
+  position: relative;
 }
 
 .main-menu:focus {
