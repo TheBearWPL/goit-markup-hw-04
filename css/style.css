@@ -81,6 +81,7 @@ section {
   display: flex;
   align-items: center;
   padding-left: 0px;
+  position: relative;
 }
 
 .logo {
@@ -94,7 +95,6 @@ section {
   color: #4d5ae5;
   text-decoration: none;
   margin-right: 76px;
-  position: relative;
 }
 
 .studio-logo-text {
