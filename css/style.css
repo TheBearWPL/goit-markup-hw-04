@@ -351,6 +351,17 @@ section {
     0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
+.ul-social-media-three {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.li-social-media-three {
+  width: 40px;
+  height: 40px;
+}
+
 .p-section-three {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
