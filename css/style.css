@@ -380,6 +380,10 @@ section {
   background-color: #404bbf;
 }
 
+.link-social-media:focus {
+  color: #404bbf;
+}
+
 .svg-social-media {
   fill: #f4f4fd;
 }
