@@ -381,7 +381,7 @@ section {
 }
 
 .link-social-media:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .svg-social-media {
