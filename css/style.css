@@ -442,6 +442,7 @@ section {
 
 .li-section-four:hover {
   box-shadow: 5px 10px;
+  cursor: pointer;
 }
 
 .li-section-four:focus {
