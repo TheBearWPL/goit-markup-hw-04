@@ -444,6 +444,14 @@ section {
   box-shadow: 0px 1px 1px 0px #2e2f4229;
 }
 
+.li-section-four:focus {
+  box-shadow: 0px 1px 1px 0px #2e2f4229;
+}
+
+.li-section-four:active {
+  box-shadow: 0px 1px 1px 0px #2e2f4229;
+}
+
 .h-three-section-four {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
