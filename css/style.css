@@ -441,15 +441,15 @@ section {
 }
 
 .li-section-four:hover {
-  box-shadow: 0px 1px 1px 0px #2e2f4229;
+  box-shadow: 5px 10px;
 }
 
 .li-section-four:focus {
-  box-shadow: 0px 1px 1px 0px #2e2f4229;
+  box-shadow: 5px 10px;
 }
 
 .li-section-four:active {
-  box-shadow: 0px 1px 1px 0px #2e2f4229;
+  box-shadow: 5px 10px;
 }
 
 .h-three-section-four {
