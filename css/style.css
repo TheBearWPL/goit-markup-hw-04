@@ -552,3 +552,12 @@ section {
 .studio-footer-logo-text {
   color: #f4f4fd;
 }
+
+.container-footer-social-media {
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #fff;
+  margin-bottom: 16px;
+}
