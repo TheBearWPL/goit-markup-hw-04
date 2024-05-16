@@ -535,6 +535,7 @@ section {
 
 .container-footer-logo-p {
   margin-right: 120px;
+  margin-bottom: 16px;
 }
 
 .logo-footer {
@@ -547,7 +548,6 @@ section {
   margin-right: 76px;
   color: #4d5ae5;
   display: inline-block;
-  margin-bottom: 16px;
 }
 
 .p-footer-one {
