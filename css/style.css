@@ -535,7 +535,6 @@ section {
 
 .container-footer-logo-p {
   margin-right: 120px;
-  margin-bottom: 16px;
 }
 
 .logo-footer {
@@ -548,6 +547,7 @@ section {
   margin-right: 76px;
   color: #4d5ae5;
   display: inline-block;
+  margin-bottom: 16px;
 }
 
 .p-footer-one {
@@ -558,24 +558,28 @@ section {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  margin-bottom: 16px;
 }
 
 .studio-footer-logo-text {
   color: #f4f4fd;
 }
 
-.container-footer-social-media {
+/*.container-footer-social-media {
   font-weight: 500px;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-}
+}*/
 
 .p-footer-two {
-  font-weight: 500;
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #fff;
+  margin-bottom: 16px;
 }
 
 .ul-footer {
