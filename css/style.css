@@ -558,6 +558,7 @@ section {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
+  margin-bottom: 16px;
 }
 
 .studio-footer-logo-text {
@@ -575,7 +576,6 @@ section {
 
 .p-footer-two {
   font-weight: 500;
-  margin-bottom: 16px;
 }
 
 .ul-footer {
