@@ -550,7 +550,7 @@ section {
   margin-bottom: 16px;
 }
 
-.p-footer {
+.p-footer-one {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -571,4 +571,25 @@ section {
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
+}
+
+.p-footer-two {
+  font-weight: 500;
+  margin-bottom: 16x;
+}
+
+.ul-footer {
+  display: flex;
+  gap: 16px;
+}
+
+.li-footer {
+  width: 40px;
+  height: 40px;
+}
+
+.footer-link-social-media {
+}
+
+.footer-svg-social-media {
 }
