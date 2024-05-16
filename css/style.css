@@ -142,7 +142,7 @@ section {
   border-radius: 2px;
 }*/
 
-.main-menu::after {
+.main-menu:hover::after {
   content: "";
   width: 100%;
   position: absolute;
@@ -470,7 +470,13 @@ section {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
-.li-section-four:active {
+.li-section-four:after {
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
+
+.li-section-four:hover::after {
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
