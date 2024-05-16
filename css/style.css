@@ -52,8 +52,10 @@ img {
 }
 
 ul,
-ol {
+ol,
+a {
   list-style-type: none;
+  text-decoration: none;
 }
 
 section {
