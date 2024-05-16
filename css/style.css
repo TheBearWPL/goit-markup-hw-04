@@ -201,7 +201,7 @@ section {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/office.jpeg);
+    url(./images/office.jpeg);
   max-width: 1440px;
   background-repeat: no-repeat;
   background-position: center;
