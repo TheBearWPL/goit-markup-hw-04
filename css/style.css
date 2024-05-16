@@ -142,7 +142,7 @@ section {
   border-radius: 2px;
 }*/
 
-.main-menu:hover::after {
+.main-menu::after {
   content: "";
   width: 100%;
   position: absolute;
