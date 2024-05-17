@@ -189,6 +189,8 @@ section {
 /*.li-address:focus {
   color: #404bbf;
 }*/
+
+/*
 .after-adress::after {
   content: "";
   width: 100%;
@@ -199,6 +201,8 @@ section {
   background-color: #404bbf;
   border-radius: 2px;
 }
+*/
+
 /*.li-address:active {
   color: #404bbf;
 }*/
